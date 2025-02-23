@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+tensorflow
+torch
+matplotlib
+yfinance
+ccxt
+alpaca-trade-api
